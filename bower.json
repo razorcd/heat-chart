@@ -3,7 +3,8 @@
   "description": "heatchart with d3",
   "main": "index.js",
   "authors": [
-    "razor"
+    "Cristian Dugacicu",
+    "Invisible Girlfriend, LLC"
   ],
   "license": "MIT",
   "homepage": "",
