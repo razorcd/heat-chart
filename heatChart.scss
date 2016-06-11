@@ -1,0 +1,47 @@
+.heat-chart {
+  position: relative;
+  font-family: sans-serif;
+  clear: both;
+
+  rect.bordered {
+    stroke: #fff;
+    stroke-width: 2px;
+  }
+
+  text.chart-label {
+    font-size: 8pt;
+    fill: #666;
+  }
+
+  .legend-pointer {
+    fill: #999;
+  }
+
+  .values {
+    pointer-events: none;
+    position: absolute;
+    color: #666;
+
+    .value {
+      position: absolute;
+      text-align: center;
+    }
+  }
+
+  .tags {
+    pointer-events: none;
+    position: absolute;
+
+    .tag {
+      z-index: 10;
+      position: absolute;
+      background-color: rgba(222,222,222,0.85);
+      padding: 5px;
+      -webkit-transition: left 0.2s, top 0.2s; /* For Safari 3.1 to 6.0 */
+      transition: left 0.2s, top 0.2s;
+      -webkit-transition-timing-function: cubic-bezier(0,0,0,1); /* For Safari 3.1 to 6.0 */
+      transition-timing-function: cubic-bezier(0,0,0,1);
+    }
+  }
+
+}
