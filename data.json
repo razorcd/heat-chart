@@ -1,0 +1,21 @@
+[
+  { "day": 1, "hour": 3, "value": 3 },
+  { "day": 2, "hour": 9, "value": 11 },
+  { "day": 2, "hour": 4, "value": 4 },
+  { "day": 2, "hour": 19, "value": 9 },
+  { "day": 3, "hour": 12, "value": 24 },
+  { "day": 3, "hour": 3, "value": 1 },
+  { "day": 3, "hour": 14, "value": 40 },
+  { "day": 6, "hour": 15, "value": 20 },
+  { "day": 6, "hour": 6, "value": 21 },
+  { "day": 9, "hour": 7, "value": 1 },
+  { "day": 9, "hour": 8, "value": 8 },
+  { "day": 9, "hour": 10, "value": 7 },
+  { "day": 11, "hour": 11, "value": 1 },
+  { "day": 13, "hour": 12, "value": 3 },
+  { "day": 15, "hour": 16, "value": 1 },
+  { "day": 15, "hour": 17, "value": 11 },
+  { "day": 16, "hour": 16, "value": 21 },
+  { "day": 16, "hour": 17, "value": 1 },
+  { "day": 17, "hour": 17, "value": 1 }
+]
