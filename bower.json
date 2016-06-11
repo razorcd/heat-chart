@@ -1,0 +1,18 @@
+{
+  "name": "heatchart",
+  "description": "heatchart with d3",
+  "main": "index.js",
+  "authors": [
+    "razor"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
