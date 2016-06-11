@@ -263,4 +263,8 @@ HeatChart.prototype._addMouseOutChartEvent = function(affectedElement) {
 
 function mergeHashes(hash1, hash2) {
   if (hash2 === undefined) { return hash1; }
+  for (key in hash2) {
+    hash1[key] = hash2[key];
+  }
+  return hash1;
 }
