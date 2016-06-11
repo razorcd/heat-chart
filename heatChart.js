@@ -260,3 +260,7 @@ HeatChart.prototype._addMouseOutChartEvent = function(affectedElement) {
     d3.select(".legend-pointer").style("opacity", 0);
   })
 }
+
+function mergeHashes(hash1, hash2) {
+  if (hash2 === undefined) { return hash1; }
+}
