@@ -1,6 +1,6 @@
 #Heat Chart with D3
 
-(DEMO)[www.razorcodes.com/portfolio/webapps/heatchart/index.html]
+##[Live Demo](www.razorcodes.com/portfolio/webapps/heatchart/index.html)
 
 #Setup
 
